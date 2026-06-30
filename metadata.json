@@ -1,0 +1,6 @@
+{
+  "name": "Clutch",
+  "description": "Panic → plan. Intelligent calendar and task scheduler with real-time sync, automated task planning, and smart recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
